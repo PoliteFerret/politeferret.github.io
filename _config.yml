@@ -38,19 +38,19 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-# email: "politeferret@gmail.com"
+email: "politeferret@gmail.com"
 #  facebook: 
 #  github: daattali
 #  twitter: daattali
 # rss: true
-# reddit: politeferret
+reddit: politeferret
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-# spotify: kw0bvmxb0q48sbw9et7sykhlv
+spotify: kw0bvmxb0q48sbw9et7sykhlv
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
