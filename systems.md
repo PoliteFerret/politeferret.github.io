@@ -8,8 +8,8 @@ published: true
 
 | System   |      Series   |  Review |
 |----------|---------------|-------|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| System 1 |  Series 1, Series 2 |  |
+| System 2 |    Series 1  |   Review |
+| System 3 | Series 1, Series 2, Series 3|    Review |
 
 </center>
