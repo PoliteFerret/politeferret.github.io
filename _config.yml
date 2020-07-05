@@ -89,8 +89,8 @@ page-col: "#FFFFFF"
 link-col: "#76323F"
 hover-col: "#76323F"
 footer-col: "#FFFFFF"
-footer-text-col: "#565656"
-footer-link-col: "#565656"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 
 # Backup color options
