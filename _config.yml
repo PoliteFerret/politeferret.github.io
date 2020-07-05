@@ -12,6 +12,7 @@ author: Polite Ferret
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Systems: "systems"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
