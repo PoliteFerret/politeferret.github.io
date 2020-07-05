@@ -2,15 +2,9 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi. I'm Polite Ferret, or Ferret for short. I like playing solo RPGs. I'll be using this blog to post my adventrues, and maybe also some system reviews. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have a big goal of developing my own solo system that fits my own tastes. We'll see how hard that is. 
