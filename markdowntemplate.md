@@ -12,15 +12,6 @@ Turkish angora leopard, for egyptian mau bobcat and cheetah, for tabby thai. Per
 {: .box-note}
 **This is a notification box.** <br/> _It has things in it._ **Note:** This is a notification box.
 
-> a multi-line <br/> quote on two lines
-
-normal text
-
-```quote
-A multi-paragraph
-
-quote in two paragraphs
-```
 
 ~~~
 Does the jaguar maul me? (Yes/No)
