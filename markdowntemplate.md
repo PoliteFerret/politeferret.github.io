@@ -12,6 +12,17 @@ Turkish angora leopard, for egyptian mau bobcat and cheetah, for tabby thai. Per
 {: .box-note}
 **This is a notification box.** <br/> It has things in it. 
 
+> a multi-line
+quote on two lines
+
+normal text
+
+```quote
+A multi-paragraph
+
+quote in two paragraphs
+```
+
 
 Jaguar. American shorthair tabby so american bobtail russian blue, tom and ocicat devonshire rex. Devonshire rex malkin turkish angora but leopard singapura. Ocelot birman, but kitten balinese turkish angora so bombay. Egyptian mau himalayan bengal so bobcat grimalkin, for siberian for tomcat.
 
