@@ -12,6 +12,9 @@ Turkish angora leopard, for egyptian mau bobcat and cheetah, for tabby thai. Per
 {: .box-note}
 **This is a notification box.** <br/> _It has things in it._ **Note:** This is a notification box.
 
+{: .box-warning}
+**Warning:** This is a warning box.
+
 
 ~~~
 Does the jaguar maul me? (Yes/No)
