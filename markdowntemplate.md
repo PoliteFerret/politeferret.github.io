@@ -23,6 +23,13 @@ A multi-paragraph
 quote in two paragraphs
 ```
 
+~~~
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+~~~
+
 
 Jaguar. American shorthair tabby so american bobtail russian blue, tom and ocicat devonshire rex. Devonshire rex malkin turkish angora but leopard singapura. Ocelot birman, but kitten balinese turkish angora so bombay. Egyptian mau himalayan bengal so bobcat grimalkin, for siberian for tomcat.
 
