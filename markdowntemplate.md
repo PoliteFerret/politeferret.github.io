@@ -16,6 +16,11 @@ __This is a notification box.__ <br/> _It has things in it._ **Note:** This is a
 **Warning:** This is a warning box.
 
 
+> Hello
+>> Hello Hello
+> **bold** *italics*
+
+
 ~~~
 Does the jaguar maul me? (Yes/No)
 Yes
